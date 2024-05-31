@@ -552,7 +552,7 @@ section#about {
     background: #6660;
 }
 .text-red {
-    color: #09cfcf;
+    color: #ffc107;
 }
 h4.heading.main-font {
     color: #ffffff;
@@ -598,10 +598,10 @@ h2.heading.main-font.my-4.titlesmb {
     text-align: center;
     font-size: 48px;
     font-weight: bold;
-    color: #0fbef5;
+    color: #ffc107;
 }
 h3.subtitlesmb {
-    color: #0fbef5;
+    color: #ffc107;
     font-weight: 700;
 }
 section#portfolio-area hr {
@@ -704,9 +704,9 @@ h1.main-font.text-white.font-weight-bold.mb-4.tithead {
     text-align: left;
 }
 .brnbeli {
-    background: #04cad5 !important;
+    background: #ffc107  !important;
     color: #000 !important;
-    box-shadow: 0px 0px 10px #d7ae40;
+    box-shadow: 0px 0px 10px #000000;
     border-color: #6fa8fc !important;
 }
 section#testimonials {
@@ -760,12 +760,12 @@ section#testimonials {
 }
 .slider-image img {
     top: unset;
-    width: 80%;
+    width: 100%;
     right: 200px;
     position: absolute;
     max-width: unset;
-    right: 90px;
-    bottom: -5px;
+    right: -18px;
+    bottom: -65px;
 }
 .topnav a:hover {
     color: #d7ae40;
@@ -808,7 +808,7 @@ section#program .heading-area p {
     font-weight: 800;
 }
 section#program img {
-    margin-top: 50px;
+    margin-top: -5px;
 }
 .mainsosmed {
     text-align: center;
@@ -1233,12 +1233,12 @@ div#slider-area h2 {
 }
 .slider-image img {
     top: auto;
-    width: 90%;
+    width: 100%;
     right: 200px;
     position: relative;
     max-width: unset;
-    right: -10px;
-    bottom: 55px;
+    right: -16px;
+    bottom: 21px;
 }
 .slider-area .content-margin {
     padding-top: 150px;
@@ -1273,10 +1273,10 @@ h2.heading.main-font.my-4.titlesmb {
     text-align: center;
     font-size: 32px;
     font-weight: bold;
-    color: #0fbef5;
+    color: #ffc107;
 }
 h3.subtitlesmb {
-    color: #0fbef5;
+    color: #ffc107;
     font-weight: 700;
     font-size: 20px;
 }
