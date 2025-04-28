@@ -592,7 +592,7 @@ span.nmbrlist {
 }
 section#program {
     background: linear-gradient(to bottom right, #f2eff3, #e5d3ed, #e5d3ed, #d5d1d1, #c178e7, #fbfbfb);
-    color: #fff;
+    color: gray;
 }
 h2.heading.main-font.my-4.titlesmb {
     text-align: center;
